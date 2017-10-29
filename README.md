@@ -1,12 +1,13 @@
 # NodeJs JsonWebToken  
-Nodejs, expressjs e passportjs
+Nodejs, expressjs e passportjs.
+Exemplo de uma aplicação rest em nodejs com json web token.  
 
-##Start
+## Start
 ```bash
 $ cd node_jwt && npm install && node index.js
 ```
 
-##Urls
+## Urls
 ```bash
 get: localhost:3000
 post: localhost:3000/token
